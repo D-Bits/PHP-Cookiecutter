@@ -1,2 +1,2 @@
 
-<!--Enter footer template code her-->
+<!--Enter footer template code here-->
